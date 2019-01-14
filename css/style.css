@@ -65,8 +65,8 @@ h2 {
     padding: 1px;
 }
 
-#press a:hover {
-  color: rgb(152,173,166);
+#press img:hover {
+  border: 5px rgb(152,173,166);
 }
 
 footer {
