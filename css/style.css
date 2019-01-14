@@ -68,6 +68,7 @@ footer {
 
 .small {
     font-size: 0.8em;
+    margin-top: 25px;
 }
 
 a:-webkit-any-link {
