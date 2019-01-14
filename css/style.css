@@ -32,11 +32,12 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
     display: block;
+    color: rgb(152,173,166);
+    text-decoration: none;
 }
 
 header a {
-    color: rgb(152,173,166);
-    text-decoration: none;
+    
 }
 
 h2 {
