@@ -72,10 +72,5 @@ footer {
     margin-bottom: 20px;
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-    margin-bottom: 25px;
-}
+
 /* Write all remaining styles here */
