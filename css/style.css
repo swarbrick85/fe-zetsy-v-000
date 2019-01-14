@@ -52,7 +52,9 @@ h2 {
     cursor: pointer;
 }
 
-#featured a
+#featured a:hover {
+  text-decoration: underline;
+}
 
 #featured img {
     border: 5px rgb(152,173,166) solid;
